@@ -1,0 +1,2 @@
+Admin ApiKey ile tüm isteklerde bulunulabilir get,post,put,delete
+User ApiKey ile sadece get isteğinde bulunabilirsiniz.
