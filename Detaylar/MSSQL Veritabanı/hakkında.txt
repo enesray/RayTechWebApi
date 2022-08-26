@@ -1,0 +1,2 @@
+Projenin veritabanı tablolalarını barındıran script içeriklerile birlikte verilmiştir
+MSSQL Veritabanına eklenebilir.

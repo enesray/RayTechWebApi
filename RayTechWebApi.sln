@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RayTech.DAL", "RayTech.DAL\RayTech.DAL.csproj", "{82AC7B9F-5616-4184-9F24-4B5D0A4AE035}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RayTech.API", "RayTech.API\RayTech.API.csproj", "{241B62F1-5B0C-4CC7-ACD6-2CA422FB8338}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82AC7B9F-5616-4184-9F24-4B5D0A4AE035}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82AC7B9F-5616-4184-9F24-4B5D0A4AE035}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82AC7B9F-5616-4184-9F24-4B5D0A4AE035}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82AC7B9F-5616-4184-9F24-4B5D0A4AE035}.Release|Any CPU.Build.0 = Release|Any CPU
+		{241B62F1-5B0C-4CC7-ACD6-2CA422FB8338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{241B62F1-5B0C-4CC7-ACD6-2CA422FB8338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{241B62F1-5B0C-4CC7-ACD6-2CA422FB8338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{241B62F1-5B0C-4CC7-ACD6-2CA422FB8338}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {086057B3-98BF-40FF-8DC2-A0C86BD6A2B7}
+	EndGlobalSection
+EndGlobal
